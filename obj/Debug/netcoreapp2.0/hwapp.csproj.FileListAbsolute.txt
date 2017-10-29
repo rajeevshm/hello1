@@ -1,0 +1,11 @@
+C:\Work\DotNetCore\hwapp\bin\Debug\netcoreapp2.0\hwapp.deps.json
+C:\Work\DotNetCore\hwapp\bin\Debug\netcoreapp2.0\hwapp.runtimeconfig.json
+C:\Work\DotNetCore\hwapp\bin\Debug\netcoreapp2.0\hwapp.runtimeconfig.dev.json
+C:\Work\DotNetCore\hwapp\bin\Debug\netcoreapp2.0\hwapp.dll
+C:\Work\DotNetCore\hwapp\bin\Debug\netcoreapp2.0\hwapp.pdb
+C:\Work\DotNetCore\hwapp\obj\Debug\netcoreapp2.0\hwapp.csproj.CoreCompileInputs.cache
+C:\Work\DotNetCore\hwapp\obj\Debug\netcoreapp2.0\hwapp.AssemblyInfoInputs.cache
+C:\Work\DotNetCore\hwapp\obj\Debug\netcoreapp2.0\hwapp.AssemblyInfo.cs
+C:\Work\DotNetCore\hwapp\obj\Debug\netcoreapp2.0\hwapp.dll
+C:\Work\DotNetCore\hwapp\obj\Debug\netcoreapp2.0\hwapp.pdb
+C:\Work\DotNetCore\hwapp\obj\Debug\netcoreapp2.0\hwapp.csprojResolveAssemblyReference.cache
